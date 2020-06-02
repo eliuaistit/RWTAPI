@@ -9187,8 +9187,8 @@
     },
     "RWT.Model/1.0.0": {
       "type": "project",
-      "path": "../../../../Downloads/ER_Regency/Models/RWT.Model.csproj",
-      "msbuildProject": "../../../../Downloads/ER_Regency/Models/RWT.Model.csproj"
+      "path": "../Models/RWT.Model.csproj",
+      "msbuildProject": "../Models/RWT.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9230,8 +9230,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Eric Liu\\Downloads\\ER_Regency\\Models\\RWT.Model.csproj": {
-              "projectPath": "C:\\Users\\Eric Liu\\Downloads\\ER_Regency\\Models\\RWT.Model.csproj"
+            "C:\\Users\\Eric Liu\\source\\repos\\RWTAPI\\Models\\RWT.Model.csproj": {
+              "projectPath": "C:\\Users\\Eric Liu\\source\\repos\\RWTAPI\\Models\\RWT.Model.csproj"
             }
           }
         }

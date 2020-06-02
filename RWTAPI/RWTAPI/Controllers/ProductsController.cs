@@ -1,4 +1,4 @@
-﻿using AllianceCRM.Insurance;
+﻿
 using Microsoft.AspNetCore.Mvc;
 using Raven.Client;
 using Raven.Client.Document;
@@ -20,8 +20,6 @@ namespace RWTAPI.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-
-
 
 
         [HttpGet]

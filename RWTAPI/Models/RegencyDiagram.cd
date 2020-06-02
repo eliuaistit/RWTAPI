@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AllianceCRM.Insurance.Product">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Policy">
+    <Position X="4" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IECCQITUkDCYAgEAAIIEBhBkAACAkIoIBQAACHAAIQQ=</HashCode>
+      <FileName>Policy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="InsuredPersons" />
+      <Property Name="Invoices" />
+      <Property Name="Broker" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.PolicyStatus">
+    <Position X="21.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PolicyStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.InsuredPersons">
+    <Position X="8" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIgAEAAMAAAAAAAAAAAIACCAAAAAAAQAAIAAAAAAAAA=</HashCode>
+      <FileName>InsuredPersons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NexsourceCRM.Communication.Conversation">
+    <Position X="18.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAAgAAKAIAIAAAQCAgAAAQAAAIIACAAAAw=</HashCode>
+      <FileName>Conversation.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="EmailMessages" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="NexsourceCRM.Communication.EmailMessage">
+    <Position X="22" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAIAAAAAAAAAEAAIABEAIAAAAAASIAAEQJCAAABAQ=</HashCode>
+      <FileName>EmailMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Invoices">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAAAAAAAAAAAAAAACAAAAAAACAAGAAAAAAAAA=</HashCode>
+      <FileName>Invoices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.BaseEntity" Collapsed="true">
+    <Position X="26.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAgAAAEAgAAAAAAgAAAAAAAgAAAAAAAAE=</HashCode>
+      <FileName>BaseEntity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ProxyInfo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.BenefitCoverage">
+    <Position X="23.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQAAA=</HashCode>
+      <FileName>BenefitCoverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Benefitcs">
+    <Position X="32.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Benefit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Broker">
+    <Position X="14" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIEDQAAgggAAAAAAUAASAAQIAAAICMBAAAAACAAQ=</HashCode>
+      <FileName>Broker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.BrokerCommissionRate">
+    <Position X="30.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BrokerCommissionRate.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ProductType" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Client">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAARAEABAAAIAAAAAAAAAAAAAAAAACAAAAEAAAIAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Endorsement">
+    <Position X="26" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAASAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Endorsement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Generator">
+    <Position X="35" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.HealthPriceRate">
+    <Position X="51.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAEAAAAAAAAAAAAAAIAAABEAAAAA=</HashCode>
+      <FileName>HealthPriceRate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.InsuredPersonStatus">
+    <Position X="49.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InsuredPersonStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.LifePriceRate">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAACAAEAAAAAQAAAAAAAAAAAABEAAAAA=</HashCode>
+      <FileName>LifePriceRate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.LifeProduct">
+    <Position X="28.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAIAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>LifeProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.NewBrokerCommissionRates">
+    <Position X="37.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NewBrokerCommissionRates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Payment">
+    <Position X="42.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.PolicyNumberScheme">
+    <Position X="44.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAACQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PolicyNumberScheme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.PriceRates">
+    <Position X="16.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAACAAEAAAAAQAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>PriceRates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.ProductType">
+    <Position X="30.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.ProfilePhoto">
+    <Position X="40.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ProfilePhoto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.ProxyInfo" Collapsed="true">
+    <Position X="26.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProxyInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AllianceCRM.Insurance.Receipt">
+    <Position X="47.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Receipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

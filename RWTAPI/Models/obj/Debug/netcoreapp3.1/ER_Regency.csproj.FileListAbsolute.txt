@@ -1,0 +1,9 @@
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\bin\Debug\netcoreapp3.1\ER_Regency.deps.json
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\bin\Debug\netcoreapp3.1\ER_Regency.dll
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\bin\Debug\netcoreapp3.1\ER_Regency.pdb
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\obj\Debug\netcoreapp3.1\ER_Regency.csproj.CoreCompileInputs.cache
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\obj\Debug\netcoreapp3.1\ER_Regency.AssemblyInfoInputs.cache
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\obj\Debug\netcoreapp3.1\ER_Regency.AssemblyInfo.cs
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\obj\Debug\netcoreapp3.1\ER_Regency.dll
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\obj\Debug\netcoreapp3.1\ER_Regency.pdb
+C:\Users\Khanit Khongaphai\source\repos\ER_Regency\ER_Regency\obj\Debug\netcoreapp3.1\ER_Regency.csprojAssemblyReference.cache

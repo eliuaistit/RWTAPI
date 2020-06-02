@@ -1,0 +1,7 @@
+C:\Users\Eric Liu\Downloads\ER_Regency\Models\bin\Debug\netcoreapp3.0\RWT.Model.deps.json
+C:\Users\Eric Liu\Downloads\ER_Regency\Models\bin\Debug\netcoreapp3.0\RWT.Model.dll
+C:\Users\Eric Liu\Downloads\ER_Regency\Models\bin\Debug\netcoreapp3.0\RWT.Model.pdb
+C:\Users\Eric Liu\Downloads\ER_Regency\Models\obj\Debug\netcoreapp3.0\RWT.Model.AssemblyInfoInputs.cache
+C:\Users\Eric Liu\Downloads\ER_Regency\Models\obj\Debug\netcoreapp3.0\RWT.Model.AssemblyInfo.cs
+C:\Users\Eric Liu\Downloads\ER_Regency\Models\obj\Debug\netcoreapp3.0\RWT.Model.dll
+C:\Users\Eric Liu\Downloads\ER_Regency\Models\obj\Debug\netcoreapp3.0\RWT.Model.pdb
